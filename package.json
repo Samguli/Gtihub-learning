@@ -1,0 +1,15 @@
+{
+  "name": "samir_git",
+  "version": "1.0.0",
+  "description": "\"for githublearning\"",
+  "main": "sam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/Samguli/Gtihub-learning.git\""
+  },
+  "author": "Samir Guliyev",
+  "license": "ISC"
+}
